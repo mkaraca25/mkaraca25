@@ -1,7 +1,7 @@
 <p align="center"> 
                               Hi There 👋, I am Melik KARACA
 <p align="center"> 
-                 I am Computer Engineering student in Erzurum ATATURK University.
+                 I am Computer Engineering student in ATATURK University.
 </p>
 </p>
               
