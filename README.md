@@ -10,5 +10,5 @@
 </p>
 <p align="left"> 
 <img src=https://github.com/mkaraca25/mkaraca25/blob/main/code.gif raw=true" width="400" height="300" style="max-width: 100%;"></>
-<img src="https://github-readme-stats.vercel.app/api?username=mkaraca25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="300" height="300">
+<img src="https://github-readme-stats.vercel.app/api?username=mkaraca25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="300">
 </p>
