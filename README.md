@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td align=top><img src=https://github.com/mkaraca25/mkaraca25/blob/main/code.gif raw=true" width="800" height="350" style="max-width: 100%;">
-    <td <img src=https://open.spotify.com/playlist/6dlwJYNRdkTfZMALZclyIx?si=3a8b91c2d48b45da" rel="nofollow"><img valign="top" src="https://camo.githubusercontent.com/8c83f5a3706c4acb743321695cc51a45723fb34c5f61bc16c3c4086f6aff6ab5/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" width="400" height="100" style="max-width: 100%;">
+    <td <img src="https://open.spotify.com/playlist/6dlwJYNRdkTfZMALZclyIx?si=3a8b91c2d48b45da" rel="nofollow"><img valign="top" src="https://camo.githubusercontent.com/8c83f5a3706c4acb743321695cc51a45723fb34c5f61bc16c3c4086f6aff6ab5/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" width="400" height="100" style="max-width: 100%;">
     <img valign="top"  src="https://github-readme-stats.vercel.app/api?username=mkaraca25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="200" top:0px;right:0px;>
   </tr>
 </table>
