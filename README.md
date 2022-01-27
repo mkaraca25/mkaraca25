@@ -11,11 +11,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.flex-container {
-  display: flex;
-}
-</style>
+
 </head>
 <body>
 <div class="flex-container" display: flex;>
