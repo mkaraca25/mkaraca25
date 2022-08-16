@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/61596919/161574533-6ae7fd4c-ade7-4ea0-99e7-655c1c759b44.png "width="755" height="300" ></div>
 
 
-<table align="center" "width="755">
+<table align="center" "width="555">
   <tr>
     <td align=top><img src=https://github.com/mkaraca25/mkaraca25/blob/main/code.gif raw=true" width="500" height="300" style="max-width: 100%;">
     <td <a href="https://open.spotify.com/playlist/6dlwJYNRdkTfZMALZclyIx?si=3a8b91c2d48b45da" rel="nofollow"><img src="https://camo.githubusercontent.com/8c83f5a3706c4acb743321695cc51a45723fb34c5f61bc16c3c4086f6aff6ab5/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" width="400" height="100" style="max-width: 100%;"></a><br>
