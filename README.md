@@ -17,7 +17,7 @@
   </tr>
 </table>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61596919/197050978-e48f8c91-3d27-46bc-8fab-2c0fa498b9ac.png "width="500" height="300" ></div>
+<img src="https://user-images.githubusercontent.com/61596919/197050978-e48f8c91-3d27-46bc-8fab-2c0fa498b9ac.png "width="600" height="350" ></div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61596919/161574533-6ae7fd4c-ade7-4ea0-99e7-655c1c759b44.png "width="955" height="400" ></div>
