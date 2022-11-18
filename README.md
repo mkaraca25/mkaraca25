@@ -16,10 +16,7 @@
    <img valign="top"  src="https://github-readme-stats.vercel.app/api?username=mkaraca25&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="400" height="160" style="max-width: 100%;">
   </tr>
 </table>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/61596919/197050978-e48f8c91-3d27-46bc-8fab-2c0fa498b9ac.png "width="700" height="400" ></div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/61596919/161574533-6ae7fd4c-ade7-4ea0-99e7-655c1c759b44.png "width="955" height="400" ></div>
+
 
    
